@@ -1,0 +1,83 @@
+[
+    {
+        "code": "F132",
+        "message": "Data found",
+        "type": "success",
+        "data": {
+            "entityId": 1,
+            "name": "Tuya",
+            "identificationNumber": "800800800",
+            "expirationDate": "2100-12-31",
+            "contactName": "JUAN CARLOS PEREZ",
+            "contactMail": "victoravila@soyyo.co",
+            "ipAddress": "{\"seg\":[\"168.149.135.0/24\"]}",
+            "logo": ""
+        },
+        "traceId": "208157"
+     },
+     {
+        "code": "F132",
+        "message": "Data found",
+        "type": "success",
+        "data": {
+            "entityId": 2,
+            "name": "Bancolombia",
+            "identificationNumber": "800800801",
+            "expirationDate": "2100-12-31",
+            "contactName": "JUAN CARLOS PEREZ",
+            "contactMail": "victoravila@soyyo.co",
+            "ipAddress": "192.168.0.1",
+            "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_creditk.png"
+        },
+        "traceId": "208161"
+    },
+    {
+        "code": "F132",
+        "message": "Data found",
+        "type": "success",
+        "data": {
+            "entityId": 3,
+            "name": "Mi Aguila",
+            "identificationNumber": "800800802",
+            "expirationDate": "2100-12-31",
+            "contactName": "JUAN CARLOS PEREZ",
+            "contactMail": "victoravila@soyyo.co",
+            "ipAddress": "192.168.0.1",
+            "logo": ""
+        },
+        "traceId": "208162"
+    },
+    {
+        "code": "F132",
+        "message": "Data found",
+        "type": "success",
+        "data": {
+            "entityId": 4,
+            "name": "Creditek S.A.S",
+            "identificationNumber": "800800803",
+            "expirationDate": "2100-12-31",
+            "contactName": "JUAN CARLOS PEREZ",
+            "contactMail": "victoravila@soyyo.co",
+            "ipAddress": "192.168.0.1",
+            "logo": ""
+        },
+        "traceId": "208163"
+    },
+    {
+        "code": "F132",
+        "message": "Data found",
+        "type": "success",
+        "data": {
+            "entityId": 5,
+            "name": "DAVIVIENDA",
+            "identificationNumber": "800800804",
+            "expirationDate": "2100-12-31",
+            "contactName": "JUAN CARLOS PEREZ",
+            "contactMail": "victoravila@soyyo.co",
+            "ipAddress": "192.168.0.1",
+            "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_soyyo.png"
+        },
+        "traceId": "208164"
+    }
+
+]

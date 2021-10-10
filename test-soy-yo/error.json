@@ -1,0 +1,15 @@
+[
+    {
+        "code":101,
+        "descripcion":"Parametro inicial no puede ser mayor que el inicial"
+
+    },
+    {
+        "code":102,
+        "descripcion":"Los parametros no pueden ser menores a 1"
+    },
+    {
+        "code":103,
+        "descripcion":"Error en el rango de busqueda"
+    }
+]
